@@ -21,13 +21,9 @@ For example:
 | correctAnswer |            questionNo             |           questionEn            |
 | :-----------: | :-------------------------------: | :-----------------------------: |
 |      yes      |          Er jorda rund?           |       Is the Earth round?       |
-|     :---:     |               :---:               |              :---:              |
 |      no       |        Er solen en planet?        |      Is the Sun a planet?       |
-|     :---:     |               :---:               |              :---:              |
 |    unknown    | Finnes det liv på andre planeter? | Is there life on other planets? |
-|     :---:     |               :---:               |              :---:              |
 |      yes      |           Er vann vått?           |          Is water wet?          |
-|     :---:     |               :---:               |              :---:              |
 |      no       |  Kan mennesker puste under vann?  | Can humans breathe underwater?  |
 
 Then in a command line tool, run the follwoing commands
