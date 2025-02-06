@@ -26,10 +26,18 @@ For example:
 |      yes      |           Er vann vått?           |          Is water wet?          |
 |      no       |  Kan mennesker puste under vann?  | Can humans breathe underwater?  |
 
+Further, you will need to set up auth in the firebase console. Make sure to allow users to sign up and sign in with email link under Authentication --> Sign-in method --> Email/Password.
+
+Toggle "Email link (passwordless sign-in)"
+
+---
+
 Then in a command line tool, run the follwoing commands
+
+---
 
 npm install
 
 npm run dev
 
-The project will now be hosted on your localhost.
+The project will now be hosted locally.
