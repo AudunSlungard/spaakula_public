@@ -68,8 +68,6 @@ export const Login = (props) => {
 		e.preventDefault();
 		setLoginLoading(true);
 		sendSignInLinkToEmail(auth, email, {
-			// this is the URL that we will redirect back to after clicking on the link in mailbox
-			// url: 'https://sunny-fenglisu-21c589.netlify.app/login',
 			url: 'http://localhost:5173/login',
 			handleCodeInApp: true,
 		})

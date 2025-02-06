@@ -1,6 +1,12 @@
 The Spåkula Project is the result of a tradition within my friend group. Every new years eve, we try to predict what will happen in the coming year, in a wide variety of fields and made a bet about who predicts the most things. For years, this has been done with pen and paper.
 
-Feel free to check it out at
+Feel free to check it out at:
+
+---
+
+**_ spaakula.netlify.app _**
+
+---
 
 If you'd rather spend some time playing with it, you can run it locally.
 
