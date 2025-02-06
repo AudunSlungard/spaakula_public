@@ -4,7 +4,7 @@ Feel free to check it out at:
 
 ---
 
-** spaakula.netlify.app **
+spaakula.netlify.app
 
 ---
 
